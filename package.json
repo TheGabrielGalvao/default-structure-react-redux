@@ -1,7 +1,17 @@
 {
-  "name": "default-structure-react",
-  "version": "0.1.0",
-  "private": true,
+  "name": "cra-template-react-rrt",
+  "main": "template.json",
+  "version": "0.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Template personalizado de React JS com algumas configurações pré realizadas",
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
